@@ -1,0 +1,20 @@
+[
+    {
+        "idSessaoUm": 1,
+        "tituloSessaoUm": "Titulo Slide 1",
+        "descricaoSessaoUm": "Descricao da Construção 2",
+        "urlSessaoUm": "http://www.adelmoral.com.br/images/banner/p3.jpg"
+    },
+    {
+        "idSessaoUm": 2,
+        "tituloSessaoUm": "Titulo Slide 2",
+        "descricaoSessaoUm": "Descricao da Construção 2",
+        "urlSessaoUm": "http://www.adelmoral.com.br/images/banner/p5.jpg"
+    },
+    {
+        "idSessaoUm": 3,
+        "tituloSessaoUm": "Titulo Slide 3",
+        "descricaoSessaoUm": "Descricao da Construção 3",
+        "urlSessaoUm": "http://www.adelmoral.com.br/images/banner/p10.jpg"
+    }
+]

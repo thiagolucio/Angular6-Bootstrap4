@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "tituloConstrucao": "Residência Unifamiliar 2 Pavimentos",
+        "descricaoConstrucao": "Condomínio Residencial Terra Domus, Estreito, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/terra-domus/modelo.jpg"
+    },
+    {
+        "id": 2,
+        "tituloConstrucao": "Residência Unifamiliar 2 Pavimentos",
+        "descricaoConstrucao": "Residencial Terra Norte, Rio Vermelho, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe30/modelo.jpg"
+    },
+    {
+        "id": 3,
+        "tituloConstrucao": "Prédio Residencial 2 Pavimentos",
+        "descricaoConstrucao": "Carianos, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/residencialCarianos/carianos02.jpg"
+    },
+    {
+        "id": 4,
+        "tituloConstrucao": "Residência Unifamiliar 2 Pavimentos",
+        "descricaoConstrucao": "Bairro Rio Farias, Antonio Carlos,SC",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe02/acompanhe_obras0222.jpg"
+    },
+    {
+        "id": 5,
+        "tituloConstrucao": "Residência Unifamiliar 2 Pavimentos",
+        "descricaoConstrucao": "Campeche, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe37/frenteTerminada.jpeg"
+    },
+    {
+        "id": 6,
+        "tituloConstrucao": "Duas Residências Geminadas Unifamiliar 2 Pavimentos",
+        "descricaoConstrucao": "Carianos, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe52/modelo.jpg"
+    },
+    {
+        "id": 7,
+        "tituloConstrucao": "Legalização Residencia Unifamiliar 2 Pavimentos",
+        "descricaoConstrucao": "Canasvierias, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe47/residCanas05.jpg"
+    },
+    {
+        "id": 8,
+        "tituloConstrucao": "Legalização Comércio e Residência Unifamiliar",
+        "descricaoConstrucao": "Santinho, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe43/modelo.jpg"
+    },
+    {
+        "id": 9,
+        "tituloConstrucao": "Legalização Comércio 2 Pavimentos",
+        "descricaoConstrucao": "Centro, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe46/modelo.jpg"
+    },
+    {
+        "id": 10,
+        "tituloConstrucao": "Legalização Residência Edícula",
+        "descricaoConstrucao": "Carianos, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe44/modelo.jpg"
+    },
+    {
+        "id": 11,
+        "tituloConstrucao": "Legalização Residência 2 Pavimentos",
+        "descricaoConstrucao": "Carianos, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe45/modelo.jpg"
+    },
+    {
+        "id": 12,
+        "tituloConstrucao": "Legalização Residência",
+        "descricaoConstrucao": "Carianos, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe42/modelo.jpg"
+    },
+    {
+        "id": 13,
+        "tituloConstrucao": "Legalização Comercial",
+        "descricaoConstrucao": "Carianos, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe38/modelo.jpg"
+    },
+    {
+        "id": 14,
+        "tituloConstrucao": "Reforma Predial",
+        "descricaoConstrucao": "Agronômica, Florianópolis",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe34/modelo.jpg"
+    },
+    {
+        "id": 15,
+        "tituloConstrucao": "Reforma Técnica, Conservação, Restauração",
+        "descricaoConstrucao": "Brusque, Santa Catarina",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe58/modelo.jpg"
+    },
+    {
+        "id": 16,
+        "tituloConstrucao": "Vistoria Predial Edifício Novo",
+        "descricaoConstrucao": "São Paulo, SP",
+        "url": "http://www.adelmoral.com.br/images/acompanheObras/acompanhe49/modelo.jpg"
+    }
+]
