@@ -11,6 +11,7 @@ import { PessoalComponent } from './pessoal/pessoal.component';
 import { ObrasComponent } from './obras/obras.component';
 import { EspeciaisComponent } from './obras/especiais/especiais.component';
 import { HomeComponent } from './home/home.component';
+import { SlidesComponent } from './slides/slides.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HomeComponent } from './home/home.component';
     PessoalComponent,
     ObrasComponent,
     EspeciaisComponent,
-    HomeComponent
+    HomeComponent,
+    SlidesComponent
   ],
   imports: [
     BrowserModule,
