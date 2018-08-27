@@ -15,7 +15,6 @@ export class ObrasComponent implements OnInit {
   ngOnInit() {
     this.data.getObras().subscribe(
       data => this.obras$ = data
-    )
+    );
   }
-
 }

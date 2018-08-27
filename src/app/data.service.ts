@@ -9,6 +9,10 @@ export class DataService {
 
   constructor(private http: HttpClient) { }
 
+  getSlides() {
+    // return this.http.get('http://www.adelmoral.com.br/data/obras.json');
+    return this.http.get('/assets/data/slides.json');
+  }
   getObras() {
     // return this.http.get('http://www.adelmoral.com.br/data/obras.json');
     return this.http.get('/assets/data/obras.json');

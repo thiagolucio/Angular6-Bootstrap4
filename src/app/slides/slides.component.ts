@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { DataService} from '../data.service';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-slides',
@@ -7,9 +9,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SlidesComponent implements OnInit {
 
-  constructor() { }
+  slides$: Object;
+
+
+  constructor(private data: DataService) {
+
+  }
 
   ngOnInit() {
+    this.data.getSlides().subscribe(
+      data => this.slides$ = data
+    );
   }
+
 
 }
